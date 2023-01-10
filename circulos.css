@@ -1,0 +1,29 @@
+div
+{
+    left: 43%;
+    position: absolute;
+    width: 100px; 
+    height: 100px;
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    border-radius: 50%; 
+}
+.circulo-1
+{
+    top: 50px;
+    z-index: 0;
+}
+.circulo-2
+{
+    top: 100px;
+    z-index: -1;
+}
+.circulo-3
+{
+    top: 150px;
+    z-index: -2;
+}
+.circulo-4
+{
+    top: 200px;
+    z-index: -3;
+}
